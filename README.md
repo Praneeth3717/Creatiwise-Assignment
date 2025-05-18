@@ -55,8 +55,4 @@ npx shadcn@latest add dashboard-01
 Run Development Server
 
 
-📸 Screenshots
-Add screenshots here to demonstrate UI responsiveness and design.
 
-📄 License
-This project is licensed under the MIT License.
